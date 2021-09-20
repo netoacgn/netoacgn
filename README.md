@@ -6,6 +6,9 @@
 
 ![Antonio Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=netoacgn&show_icons=true&theme=dracula)
 
+[![Tecnologias mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=netoacgn&layout=compact)](https://github.com/netoacgn/github-readme-stats)
+
+
 
 ## ⚙️ Tecnologias 
 
