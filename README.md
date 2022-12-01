@@ -1,4 +1,4 @@
-### Olá! Sou o Antonio Neto! 🖐️
+### Olá! Sou o Antonio! 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/netoacg/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acgomesn@gmail.com)
@@ -21,5 +21,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-Um desenvolvedor com visão de futuro que oferece vasta experiência na criação, integração, teste e suporte web.
+Um desenvolvedor com visão de futuro que oferece vasta experiência no desenvolvimento de sistemas web e mobile.
 
