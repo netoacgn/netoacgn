@@ -1,4 +1,11 @@
-### Olá! Sou o Antonio! 🖐️
+### Hi there! I'm Antonio!🖐️
+
+ - 🌎 Brazilian
+ - Full Stack Programmer
+ - Graduated in Systems Analysis and Development
+
+Passionate about technology, a forward-thinking developer with extensive experience in web and mobile systems development.
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/netoacg/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acgomesn@gmail.com)
@@ -10,7 +17,7 @@
 
 
 
-## ⚙️ Tecnologias 
+## ⚙️ Stacks 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,5 +28,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-Um desenvolvedor com visão de futuro que oferece vasta experiência no desenvolvimento de sistemas web e mobile.
 
