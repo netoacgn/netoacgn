@@ -1,7 +1,7 @@
 ### Hi there! I'm Antonio!🖐️
 
  - 🌎 Brazilian
- - Full Stack Programmer
+ - Software Engineer
  - Graduated in Systems Analysis and Development
 
 Passionate about technology, a forward-thinking developer with extensive experience in web and mobile systems development.
